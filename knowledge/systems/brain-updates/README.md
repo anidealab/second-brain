@@ -7,7 +7,7 @@ updated: {KIT_DATE}
 
 AnIdeaLab, which makes the brain kit this brain was started from, sends updates to brains made from it: fixes, new rules and new parts, through a public repo. A check at the start of a session, once a day, says when a new one is waiting, and the weekly tidy-up checks too. The owner hears a summary of each, and an update is applied only if they say go ([how](../../../skills/brain-spec/SKILL.md#brain-updates)).
 
-**On kit update:** 7 (in the kit this brain started from, made on {KIT_DATE})
+**On kit update:** 8 (in the kit this brain started from, made on {KIT_DATE})
 
 Each update leaves a report here: what went in, what clashed and what broke. The "Send brain update reports" workflow sends it to AnIdeaLab's inbox, so the kit gets better for everyone. It runs on GitHub's machines, not the PC.
 
